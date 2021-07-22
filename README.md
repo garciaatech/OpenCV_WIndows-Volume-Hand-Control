@@ -1,1 +1,1 @@
-# OpenCV_WIndows-Volume-Hand-Control
+# OpenCV_Windows-Volume-Hand-Control
